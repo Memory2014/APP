@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12118" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12086"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Annotation View Controller-->
+        <scene sceneID="1SJ-jz-ORi">
+            <objects>
+                <viewController storyboardIdentifier="Annotation" id="Gx5-PR-02c" customClass="AnnotationViewController" customModule="PhotoPRO" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="cqj-KG-bJ3"/>
+                        <viewControllerLayoutGuide type="bottom" id="SNu-AT-lag"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Doe-QG-2WH">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="320"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Appear spotlight on view." textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fah-CI-bfM">
+                                <rect key="frame" x="66" y="75" width="239" height="19.5"/>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="16"/>
+                                <color key="textColor" red="0.94117647058823528" green="0.94117647058823528" blue="0.94117647058823528" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Gecco" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qjx-3h-ych">
+                                <rect key="frame" x="116" y="155" width="88.5" height="39"/>
+                                <fontDescription key="fontDescription" name="Futura-Medium" family="Futura" pointSize="30"/>
+                                <color key="textColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Support rounded rect." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wa0-41-Snl">
+                                <rect key="frame" x="66" y="74" width="188" height="19.5"/>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="16"/>
+                                <color key="textColor" red="0.94117647058823528" green="0.94117647058823528" blue="0.94117647058823528" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailingMargin" secondItem="wa0-41-Snl" secondAttribute="trailing" constant="50" id="2Rz-h6-trn"/>
+                            <constraint firstAttribute="trailing" secondItem="fah-CI-bfM" secondAttribute="trailing" constant="15" id="81Y-7l-HO2"/>
+                            <constraint firstItem="fah-CI-bfM" firstAttribute="top" secondItem="Doe-QG-2WH" secondAttribute="top" constant="75" id="9qi-nw-wUS"/>
+                            <constraint firstItem="Qjx-3h-ych" firstAttribute="centerX" secondItem="Doe-QG-2WH" secondAttribute="centerX" id="Uhw-wU-bms"/>
+                            <constraint firstItem="fah-CI-bfM" firstAttribute="leading" secondItem="Doe-QG-2WH" secondAttribute="leadingMargin" constant="50" id="YIA-gb-GB4"/>
+                            <constraint firstItem="wa0-41-Snl" firstAttribute="leading" secondItem="Doe-QG-2WH" secondAttribute="leadingMargin" constant="50" id="ZNm-nD-HDg"/>
+                            <constraint firstItem="wa0-41-Snl" firstAttribute="top" secondItem="Doe-QG-2WH" secondAttribute="top" constant="74" id="nMM-c8-zG5"/>
+                            <constraint firstItem="wa0-41-Snl" firstAttribute="centerX" secondItem="Doe-QG-2WH" secondAttribute="centerX" id="t8w-ml-qAs"/>
+                            <constraint firstItem="Qjx-3h-ych" firstAttribute="top" secondItem="Doe-QG-2WH" secondAttribute="topMargin" constant="155" id="ynk-xn-nEI"/>
+                        </constraints>
+                    </view>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="320" height="320"/>
+                    <connections>
+                        <outlet property="firstLabel" destination="fah-CI-bfM" id="Q8A-6Z-e8E"/>
+                        <outlet property="logoLabel" destination="Qjx-3h-ych" id="scK-lv-WJe"/>
+                        <outlet property="secondLabel" destination="wa0-41-Snl" id="hwR-iV-4l6"/>
+                        <outletCollection property="annotationViews" destination="fah-CI-bfM" collectionClass="NSMutableArray" id="8YQ-Ox-4md"/>
+                        <outletCollection property="annotationViews" destination="wa0-41-Snl" collectionClass="NSMutableArray" id="Ub1-zw-Uaj"/>
+                        <outletCollection property="annotationViews" destination="Qjx-3h-ych" collectionClass="NSMutableArray" id="5tr-Pw-rUg"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="FNh-QX-ZIH" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-45" y="822"/>
+        </scene>
+    </scenes>
+</document>

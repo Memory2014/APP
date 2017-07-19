@@ -1,0 +1,28 @@
+/* 
+  File.strings
+  PhotoPRO
+
+  Created by zhong on 24/02/2017.
+  Copyright © 2017 zhongyi. All rights reserved.
+*/
+
+
+
+"Not Allowed" = "不能访问";
+"No Photos or Videos" = "没有相片或视频";
+"You can sync photos and videos onto your iPhone using iTunes." = "你可以通过iTunes同步相片或视频到你手机上";
+"This app does not have access to your photos or videos." = "应用没有授权访问你的相片或视频";
+"You can enable access in Privacy Settings." = "请在隐私设置中设置访问权限";
+"No Photos" = "没有相片";
+"You can sync photos onto your iPhone using iTunes." = "你可以通过iTunes同步相片";
+"No Videos" = "没有视频" ;
+"No Videos" = "没有视频" ;
+"You can sync videos onto your iPhone using iTunes." = "你可以通过iTunes同步视频";
+"You can sync media onto your iPhone using iTunes." = "你可以通过iTunes同步媒体";
+"Error" = "错误";
+"Device has no camera" = "设备没有相机";
+"No Photos or Videos" = "没有相片或视频" ;
+"You can sync photos and videos onto your iPhone using iTunes." = "你可以通过iTunes同步相片或视频" ;
+"This app does not have access to your photos or videos." = "应用没有授权访问你的相片或视频" ;
+"You can enable access in Privacy Settings." = "请在隐私设置中设置访问权限" ;
+"You can sync media onto your iPhone using iTunes." = "你可以通过iTunes同步媒体" ;

@@ -1,0 +1,27 @@
+/* 
+  File.strings
+  PhotoPRO
+
+  Created by zhong on 24/02/2017.
+  Copyright © 2017 zhongyi. All rights reserved.
+*/
+
+
+"Not Allowed" = "Not Allowed";
+"No Photos or Videos" = "No Photos or Videos";
+"You can sync photos and videos onto your iPhone using iTunes." = "You can sync photos and videos onto your iPhone using iTunes.";
+"This app does not have access to your photos or videos." = "This app does not have access to your photos or videos.";
+"You can enable access in Privacy Settings." = "You can enable access in Privacy Settings.";
+"No Photos" = "No Photos";
+"You can sync photos onto your iPhone using iTunes." = "You can sync photos onto your iPhone using iTunes.";
+"No Videos" = "No Videos" ;
+"No Videos" = "No Videos" ;
+"You can sync videos onto your iPhone using iTunes." = "You can sync videos onto your iPhone using iTunes.";
+"You can sync media onto your iPhone using iTunes." = "You can sync media onto your iPhone using iTunes.";
+"Error" = "Error";
+"Device has no camera" = "Device has no camera";
+"No Photos or Videos" = "No Photos or Videos" ;
+"You can sync photos and videos onto your iPhone using iTunes." = "You can sync photos and videos onto your iPhone using iTunes." ;
+"This app does not have access to your photos or videos." = "This app does not have access to your photos or videos." ;
+"You can enable access in Privacy Settings." = "You can enable access in Privacy Settings." ;
+"You can sync media onto your iPhone using iTunes." = "You can sync media onto your iPhone using iTunes." ;

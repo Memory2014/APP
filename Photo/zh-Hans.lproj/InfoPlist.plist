@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>相册加</string>
+	<key>CFBundleName</key>
+	<string>相册加</string>
+	<key>NSCameraUsageDescription</key>
+	<string>为使应用更好工作，应用需要获取相机访问权限</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>为使应用更好工作，应用需要获取照片访问权限</string>
+</dict>
+</plist>

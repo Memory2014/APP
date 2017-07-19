@@ -1,0 +1,153 @@
+/* 
+  Localizable.strings
+  Photo
+
+  Created by zhongyi on 16/1/10.
+  Copyright © 2016年 zhongyi. All rights reserved.
+*/
+
+
+"Re-enter your new passcode"="Re-enter your new passcode";
+"Enter your new passcode"="Enter your new passcode";
+"Enter your old passcode"="Enter your old passcode";
+"New Album"="New Album";
+"Cancel"="Cancel";
+"Create"="Create";
+"Album Name"="Album Name";
+"no photo in local"="no photo in local";
+"Smart Albums"="Smart Albums";
+"Albums"="Albums";
+"PrivateAlbums"="PrivateAlbums";
+"Select Photos"="Select Photos";
+"Wrong passcode. Try again"="Wrong passcode. Try again";
+"Passcodes did not match. Try again"="Passcodes did not match. Try again";
+"passcode is empty"="passcode is empty";
+"Set Password"="Set Password";
+"This APP will work better when the APP permission to Access Your Photos"="This APP will work better when the APP permission to Access Your Photos";
+
+"Please set the password for private photos. Then you can click  + on the right of app home navigation bar, input the password into the private photos"="Please set the password for private photos. Then you can click  + on the right of app home navigation bar, input the password into the private photos";
+
+"And you also can click  +  on the right of app home navigation bar ,input new album name to crete new album"="And you also can click  +  on the right of app home navigation bar ,input new album name to crete new album";
+"Please set the password for private photos. Then you can click  + on the right of app home navigation bar, input the password into the private photos . And you also can input other words to crete new album "="Please set the password for private photos. Then you can click  + on the right of app home navigation bar, input the password into the private photos . And you also can input other words to crete new album ";
+" Start enjoy the APP"=" Start enjoy the APP";
+"Get Started"="Get Started";
+"Set Password"="Set Password";
+"please input the password for private album"="please input the password for private album";
+"Password"="Password";
+"Password Confirmation"="Password Confirmation";
+"OK"="OK";
+"only can import 20 photos, please purchase this get unlimited"="only can import 20 photos, please purchase this get unlimited";
+"INFORMATION"="INFORMATION";
+"Can't Connect To APP Store, please try again later "="Can't Connect To APP Store, please try again later ";
+"Purchase"="Purchase";
+"Restore"="Restore";
+"Buy"="Buy";
+"Cancel"="Cancel";
+"Save to album"="Save to album";
+"Delete"="Delete";
+" photo"=" photo";
+" photos"=" photos";
+"CreationDate : %@  Pixel : %@ * %@"="CreationDate : %@  Pixel : %@ * %@";
+"CreationDate"="CreationDate";
+"Pixel"="Pixel";
+"selected"="selected";
+"Welcome Beautiful MyPhoto+"="Welcome Beautiful MyPhoto+";
+"Go On"="Go On";
+"Now"="Now";
+"MyPhotos+"="MyPhotos+";
+"New Albums" = "New Albums";
+"Photo" = "Photo";
+"Welcome Beautiful Photo" = "Welcome Beautiful Photo";
+"settings"= "settings";
+"update to pro"="update to pro";
+"camera"="camera";
+"video"="video";
+"photo"="photo";
+"rate app"="rate app";
+"home"="home";
+
+"Upgrade"="Upgrade";
+"Rating"="Rating";
+"Transfer"="Transfer";
+"Video"="Video";
+"Photo"="Photo";
+"Camera"="Camera";
+"Setting"="Setting";
+"Home"="Home";
+"No Photos"="No Photos";
+"You can sync Photos onto your iPhone using iTunes or Wi-Fi."="You can sync Photos onto your iPhone using iTunes or Wi-Fi.";
+"only can import 20 photos, please purchase this get unlimited"="only can import 20 photos, please purchase this get unlimited";
+"Exceed Maximum Number Of Selection"="Exceed Maximum Number Of Selection";
+"No Videos"="No Videos";
+"You can sync videos onto your iPhone using iTunes or Wi-Fi."="You can sync videos onto your iPhone using iTunes or Wi-Fi.";
+"This app does not have access to your photos or videos."="This app does not have access to your photos or videos.";
+"You can enable access in Privacy Settings."="You can enable access in Privacy Settings.";
+"Enter this URL in your computer’s browser. (Leave the page ,the server will disable automatically)" = "Enter this URL in your computer’s browser. (Leave the page ,the server will disable automatically)";
+"Your computer and your phone need to be on the same local area (or wlan) network.No iTunes or cable needed."="Your computer and your phone need to be on the same local area (or wlan) network.No iTunes or cable needed.";
+"Supports the files with the .mov .mp4 .m4v .jpg .jpeg .png filename extensions."="Supports the files with the .mov .mp4 .m4v .jpg .jpeg .png filename extensions.";
+"You can transfer video files and unlimited photos by upgrading to the full version inside the app."="You can transfer video files and unlimited photos by upgrading to the full version inside the app.";
+"Background transfer not supports.Data stored: Photo/PC or Video/PC,"="Background transfer not supports.Data stored: Photo/PC or Video/PC,";
+
+"Device has no camera"="Device has no camera";
+"Choose media"="Choose media";
+"Choose photos"="Choose photos";
+"Choose a media"="Choose a media";
+"Not Allowed"="Not Allowed";
+"No Photos or Videos"="No Photos or Videos";
+"You can sync photos and videos onto your iPhone using iTunes."="You can sync photos and videos onto your iPhone using iTunes.";
+"This app does not have access to your photos or videos."="This app does not have access to your photos or videos.";
+"You can enable access in Privacy Settings."="You can enable access in Privacy Settings.";
+"You can sync photos onto your iPhone using iTunes."="You can sync photos onto your iPhone using iTunes.";
+"You can sync videos onto your iPhone using iTunes."="You can sync videos onto your iPhone using iTunes.";
+"You can sync media onto your iPhone using iTunes."="You can sync media onto your iPhone using iTunes.";
+"No Photos"="No Photos";
+"Exceed Maximum Number Of Selection.Only can import 20 photos, please upgrade purchase this get unlimited"="Exceed Maximum Number Of Selection.Only can import 20 photos, please upgrade purchase this get unlimited";
+
+"1) Your computer and your phone need to be on the same local area (or wlan) network. \n2) No iTunes or cable needed.\n3) Supports the files with the .mov .mp4 .m4v and .jpg .jpeg .png filename extensions. \n4) You can transfer video files and unlimited photos by upgrading to the full version inside the app. \n5) Background transfer not supports. Data stored: Photo/PC or Video/PC. \n6) Browser support best : Safari 6+, Chrome 7+, Firefox 4+,IE 10+,Opera 12+ . For all the other browsers, dropzone provides an old way. \n7) Wireless Transfer does not use or transfer your files to any external server.It provides a completely private website to be accessed by only computers that are directly connected to your local WiFi network."= "1) Your computer and your phone need to be on the same local area (or wlan) network. \n2) No iTunes or cable needed.\n3) Supports the files with the .mov .mp4 .m4v and .jpg .jpeg .png filename extensions. \n4) You can transfer video files and unlimited photos by upgrading to the full version inside the app. \n5) Background transfer not supports. Data stored: Photo/PC or Video/PC. \n6) Browser support best : Safari 6+, Chrome 7+, Firefox 4+,IE 10+,Opera 12+ . For all the other browsers, dropzone provides an old way. \n7) Wireless Transfer does not use or transfer your files to any external server.It provides a completely private website to be accessed by only computers that are directly connected to your local WiFi network.";
+
+"Selected (%d)"="Selected (%d)";
+"select photo"="select photo";
+"Cancel"="Cancel";
+"Delete"="Delete";
+"Save to album"="Save to album";
+"Exceed Maximum Number Of Selection.Only can import 10 photos, please upgrade purchase this get unlimited"="Exceed Maximum Number Of Selection.Only can import 10 photos, please upgrade purchase this get unlimited";
+"Exceed Maximum Number Of Selection.Please upgrade purchase this get unlimited"="Exceed Maximum Number Of Selection.Please upgrade purchase this get unlimited";
+"Exceed Maximum Number Of Selection.Please upgrade purchase this get unlimited"="Exceed Maximum Number Of Selection.Please upgrade purchase this get unlimited";
+"Set New Password"="Set New Password";
+"All Photos"="All Photos";
+"Set Password"="Set Password";
+"NOTE: App does not have the ability to store contents online, so we won't be able to help you recover contents if you forget the password you used."="NOTE: App does not have the ability to store contents online, so we won't be able to help you recover contents if you forget the password you used.";
+"Password for private album"="Password for private album";
+"Password Confirmation"="Password Confirmation";
+"Choose media"="Choose media";
+"Choose videos"="Choose videos";
+"Choose video"="Choose video";
+"Choose photo"="Choose photo";
+"SUCCEED"="SUCCEED";
+"save the changes as a copy"="save the changes as a copy";
+"Save to ablum"="Save to ablum";
+
+"Please go to Settings -> Mail -> Add Account"="Please go to Settings -> Mail -> Add Account or mail to zhyi@foxmail.com ";
+"Set Password For Private Photo"="Set Password For Private Photo";
+"Click  + , input the password. You only need to enter a password when you first install the app"="Click  + , input the password. You only need to enter a password when you first install the app";
+"Or press long on the title,use Touch ID for PrivatePhoto"="Or press long on the title,use Touch ID for PrivatePhoto";
+"PrivatePhoto"="PrivatePhoto";
+"Home"="Home";
+"Theme"="Theme";
+"Camera"="Camera";
+"Rate our app"="Rate our app";
+"Contact Support"="Contact Support";
+"Tutorial"="Tutorial";
+"save the changes as a copy"="save the changes as a copy";
+"SUCCEED"="SUCCEED";
+"Save"="Save";
+"slide"="slide";
+"set password" = "set password";
+"Home Tutorial" = "Home Tutorial" ;
+"Thanks you for upgrading purchase. If you didn't get a response , maybe the network is something wrong. please try again later. If you had upgraded , please restore " = "Thanks you for upgrading purchase. If you didn't get a response , maybe the network is something wrong. please try again later. If you had upgraded , please restore ";
+"Save" ="Save";
+"Get PrivatePhoto APP, you can import more photos and videos by Wi-Fi network, also you can get more Tools to Perfect Photos, and aslo No Ads." = "Get PrivatePhoto APP, you can import more photos and videos by Wi-Fi network, also you can get more Tools to Perfect Photos, and aslo No Ads.";
+"Get PrivatePhoto" = "Get PrivatePhoto";
+"input password"="input password";
+"Use Touch ID to unlock your private photo"="Use Touch ID to unlock your private photo";
+"Touch ID"="Touch ID";

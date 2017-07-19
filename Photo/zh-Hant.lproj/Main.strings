@@ -1,0 +1,91 @@
+
+/* Class = "UIBarButtonItem"; title = "select"; ObjectID = "02Z-PH-iHN"; */
+"02Z-PH-iHN.title" = "選擇";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1V4-Lg-m3M"; */
+"1V4-Lg-m3M.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter your new passcode"; ObjectID = "6Z9-7N-Vs7"; */
+"6Z9-7N-Vs7.placeholder" = "輸入新密碼";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "8Kv-nG-P5W"; */
+"8Kv-nG-P5W.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8SL-dT-urK"; */
+"8SL-dT-urK.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "9Ws-u0-kee"; */
+"9Ws-u0-kee.title" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HnA-Gw-XHx"; */
+"HnA-Gw-XHx.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KYS-6u-jI7"; */
+"KYS-6u-jI7.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KwO-2B-1Rn"; */
+"KwO-2B-1Rn.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "L1i-A5-MWJ"; */
+"L1i-A5-MWJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Set Password"; ObjectID = "L5T-Lo-VTL"; */
+"L5T-Lo-VTL.text" = "設置密碼";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N7H-BP-pSj"; */
+"N7H-BP-pSj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QED-1V-G9P"; */
+"QED-1V-G9P.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "1"; ObjectID = "Qqk-mp-lBR"; */
+"Qqk-mp-lBR.title" = "1";
+
+/* Class = "UILabel"; text = "NOTE"; ObjectID = "RPQ-me-N21"; */
+"RPQ-me-N21.text" = "NOTE";
+
+/* Class = "UITextField"; placeholder = "Re-enter your new passcode"; ObjectID = "XqM-xd-Rqo"; */
+"XqM-xd-Rqo.placeholder" = "Re-enter your new passcode";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "cc7-g2-9Xv"; */
+"cc7-g2-9Xv.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dls-ZC-1Lt"; */
+"dls-ZC-1Lt.text" = "Label";
+
+/* Class = "UILabel"; text = "Labe"; ObjectID = "e2O-Ok-wh3"; */
+"e2O-Ok-wh3.text" = "Labe";
+
+/* Class = "UITableViewController"; title = "Master"; ObjectID = "eoi-gx-iJD"; */
+"eoi-gx-iJD.title" = "Master";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fyh-oO-wma"; */
+"fyh-oO-wma.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "x"; ObjectID = "gA5-nh-Q78"; */
+"gA5-nh-Q78.title" = "x";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gRV-fp-t3a"; */
+"gRV-fp-t3a.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gW7-Ag-JaU"; */
+"gW7-Ag-JaU.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hjG-0y-peX"; */
+"hjG-0y-peX.text" = "Label";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "kyL-51-fMX"; */
+"kyL-51-fMX.text" = "Subtitle";
+
+/* Class = "UITextField"; placeholder = "Enter your old passcode"; ObjectID = "lh6-wb-s7J"; */
+"lh6-wb-s7J.placeholder" = "Enter your old passcode";
+
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "q48-3j-Xde"; */
+"q48-3j-Xde.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tWg-O2-5HH"; */
+"tWg-O2-5HH.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tZr-yU-47Y"; */
+"tZr-yU-47Y.text" = "Label";

@@ -1,0 +1,155 @@
+/* 
+  Localizable.strings
+  Photo
+
+  Created by zhongyi on 16/1/10.
+  Copyright © 2016年 zhongyi. All rights reserved.
+*/
+
+"Re-enter your new passcode"="请再次输入新密码";
+"Enter your new passcode"="请输入新密码";
+"Enter your old passcode"="原始密码";
+"New Album"="新相册";
+"New Albums" = "新相册";
+"Cancel"="取消";
+"Create"="创建";
+"Album Name"="相册名";
+"no photo in local"="本地没有相片";
+"Smart Albums"="智能相册";
+"Albums"="相册";
+"PrivateAlbums"="私人相册";
+"Select Photos"="选择照片";
+"Wrong passcode. Try again"="密码错误 请重试";
+"Passcodes did not match. Try again"="密码不一致 请重新输入";
+"passcode is empty"="密码为空";
+"Set Password"="密码设置";
+"This APP will work better when the APP permission to Access Your Photos"="为了此应用更好的工作，应用需要访问您的相册，请您允许应用访问相册";
+"Please set the password for private photos. Then you can click  + on the right of app home navigation bar, input the password into the private photos"="请设置应用密码 之后您可以点击 ＋ ，输入设置的密码进入私人相册，或者输入新的相册名创建新的相册";
+
+"Please set the password for private photos. Then you can click  + , input the password into the private photos"="请设置应用密码 之后您可以点击应用首页左上角 ＋ 按钮，输入设置的密码进入私人相册";
+"And you also can click  +  on the right of app home navigation bar ,input new album name to crete new album"="您也可以点击应用首页左上角 ＋ 按钮，输入新的相册名创建新的相册";
+"Please set the password for private photos. Then you can click  + on the right of app home navigation bar, input the password into the private photos . And you also can input other words to crete new album "="请设置应用密码 之后您可以点击应用首页左上角 ＋ 按钮，输入设置的密码进入私人相册.您也可以输入新的相册名创建新的相册";
+" Start enjoy the APP"="开始体验应用吧！";
+"Get Started"="开始";
+"Set Password"="设置密码";
+"please input the password for private album"="请输入私人相册密码";
+"Password"="密码";
+"Password Confirmation"="密码确认";
+"OK"="好";
+"only can import 50 photos, please purchase this get unlimited"="只能导入50张，请购买升级无限制导入";
+"INFORMATION"="信息";
+"Can't Connect To APP Store, please try again later "=" 暂时不能连接到应用商店，请稍后再尝试";
+"Purchase"="购买";
+"Restore"="恢复";
+"Buy"="购买";
+"Save to album"="保存到相册";
+"Delete"="删除";
+" photo"=" 张相片";
+" photos"=" 张相片";
+"CreationDate : %@  Pixel : %@ * %@"="创建日期 : %@  大小 : %@ * %@";
+"CreationDate"="创建日期";
+"Pixel"="大小";
+"selected"="  张相片选中";
+"Welcome Beautiful MyPhoto+"="欢迎使用 MyPhoto+";
+"Go On"="继续";
+"Now"="现在";
+"MyPhotos+"="我的相册＋";
+"MyPhotos"="我的相册";
+"Photo" = "照片";
+"Welcome Beautiful Photo" = "欢迎使用 Photo";
+"settings"= "设置";
+"update to pro"="升级";
+"camera"="相机";
+"video"="视频";
+"photo"="相片";
+"rate app"="评分";
+"home"="首页";
+
+
+"Upgrade"="升级";
+"Rating"="评价";
+"Transfer"="同步";
+"Video"="视频";
+"Photo"="图片";
+"Camera"="相机";
+"Setting"="设置";
+"Home"="首页";
+"No Photos"="没有照片";
+"You can sync Photos onto your iPhone using iTunes or Wi-Fi."="你可以使用 iTunes 或者 Wi-Fi 进行同步.";
+"only can import 20 photos, please purchase this get unlimited"="只能导入20张相片，请升级无限制";
+"Exceed Maximum Number Of Selection"="超过最大可选";
+"No Videos"="没有视频";
+"You can sync videos onto your iPhone using iTunes or Wi-Fi."="你可以使用 iTunes 或者 Wi-Fi 进行同步照片和视频";
+"This app does not have access to your photos or videos."="应用没有权限访问照片和视频";
+"You can enable access in Privacy Settings."="你可以在隐私设置里面进行设置";
+"Enter this URL in your computer’s browser. (Leave the page ,the server will disable automatically)" ="在电脑浏览器上输入显示的网址 (离开当前页，服务自动关闭)";
+"Your computer and your phone need to be on the same local area (or wlan) network.No iTunes or cable needed."="你的电脑和手机必须在同一个本地局域网内。不需要数据线或 iTunes";
+"Supports the files with the .mov .mp4 .m4v .jpg .jpeg .png filename extensions."="支持文件格式 .mov .mp4 .m4v .jpg .jpeg .png ";
+"You can transfer video files and unlimited photos by upgrading to the full version inside the app."="你可以升级购买应用进行视频和无限制照片同步";
+"Background transfer not supports.Data stored: Photo/PC or Video/PC,"="不支持后台传输 文件存储目录: 照片/PC 或 视频/PC,";
+
+"Device has no camera"="设备没有相机";
+"Choose media"="选择媒体";
+"Choose photos"="选择相片";
+"Choose a media"="选择媒体";
+"Not Allowed"="不被允许";
+"No Photos or Videos"="没有相关文件";
+"You can sync photos and videos onto your iPhone using iTunes."="你可以使用 iTunes 进行同步照片和视频";
+"This app does not have access to your photos or videos."="应用没有权限访问照片和视频";
+"You can enable access in Privacy Settings."="你可以在隐私设置里面进行设置";
+"You can sync photos onto your iPhone using iTunes."="你可以使用 iTunes 进行同步照片";
+"You can sync videos onto your iPhone using iTunes."="你可以使用 iTunes 进行同步视频";
+"You can sync media onto your iPhone using iTunes."="你可以使用 iTunes 进行同步照片和视频";
+"Exceed Maximum Number Of Selection.Only can import 20 photos, please upgrade purchase this get unlimited"="超出最大可选择数，免费用户只能导入20张。请升级购买无限制导入。";
+"You can sync photos and videos onto your iPhone using iTunes"="你可以使用 iTunes 进行同步照片和视频";
+
+
+"1) Your computer and your phone need to be on the same local area (or wlan) network. \n2) No iTunes or cable needed.\n3) Supports the files with the .mov .mp4 .m4v and .jpg .jpeg .png filename extensions. \n4) You can transfer video files and unlimited photos by upgrading to the full version inside the app. \n5) Background transfer not supports. Data stored: Photo/PC or Video/PC. \n6) Browser support best : Safari 6+, Chrome 7+, Firefox 4+,IE 10+,Opera 12+ . For all the other browsers, dropzone provides an old way. \n7) Wireless Transfer does not use or transfer your files to any external server.It provides a completely private website to be accessed by only computers that are directly connected to your local WiFi network."="1) 你的电脑和手机必须在同一个本地局域网内。\n2) 不需要数据线或 iTunes。\n3) 支持文件格式 .mov .mp4 .m4v .jpg .jpeg .png 。\n4) 你可以升级购买应用进行视频和无限制照片同步。免费用户同步照片视频有限制 \n5) 不支持后台传输 文件存储目录: 照片/PC 或 视频/PC。\n6) 最佳浏览器支持 : Safari 6+, Chrome 7+, Firefox 4+,IE 10+,Opera 12+ .";
+
+"Selected (%d)"="选择 (%d)";
+"select photo"="选择";
+"Cancel"="取消";
+"Delete"="删除";
+"Save to album"="保存到相册";
+"Exceed Maximum Number Of Selection.Only can import 10 photos, please upgrade purchase this get unlimited"="超出最大可选择数。请升级购买无限制导入。";
+"Exceed Maximum Number Of Selection.Please upgrade purchase this get unlimited"="超出最大可选择数。请升级购买无限制导入。";
+"Exceed Maximum Number Of Selection.Please upgrade purchase this get unlimited"="超出最大可选择数。请升级购买无限制导入。";
+"Exceed Maximum Number Of Selection.Please upgrade purchase this get unlimited"="超出最大可选择数。请升级购买无限制导入。";
+"Set New Password"="设置新密码";
+"All Photos"="全部相片";
+"Set Password"="设置密码";
+"NOTE: App does not have the ability to store contents online, so we won't be able to help you recover contents if you forget the password you used."="注意 应用不能在线存储内容，所以不能提供找回密码功能。请牢记设置的密码";
+"Password for private album"="加密相册密码";
+"Password Confirmation"="密码确认";
+"Choose media"="选择媒体";
+"Choose videos"="选择视频";
+"Choose video"="选择视频";
+"Choose photo"="选择相片";
+"SUCCEED"="成功";
+"save the changes as a copy"="修改已保存为新照片";
+"Save to ablum"="保存到相册";
+"Please go to Settings -> Mail -> Add Account"= "请先在iPhone的 设置－邮件－添加帐户 中添加您的邮箱帐号 或发邮件到 zhyi@foxmail.com ";
+
+"Set Password For Private Photo"="设置私人相册密码";
+"Click  + , input the password. You only need to enter a password when you first install the app"="点击  + , 输入密码. 密码为第一次安装应用时设置的";
+"Or press long on the title,use Touch ID for PrivatePhoto"="或长按此处 使用指纹解锁相册";
+"PrivatePhoto"="相册加";
+"Home"="首页";
+"Theme"="主题";
+"Camera"="相机";
+"Rate our app"="发表评论";
+"Contact Support"="联系我们";
+"Tutorial"="图示";
+"save the changes as a copy"="已保存为新的副本";
+"SUCCEED"="成功";
+"Save"="保存";
+"slide"="幻灯片";
+"set password" = "密码设置";
+"Home Tutorial" = "首页图示" ;
+"Thanks you for upgrading purchase. If you didn't get a response , maybe the network is something wrong. please try again later. If you had upgraded , please restore " = " 请点击购买进行操作 如点击后没有响应，可能由于网络不稳定等原因暂时无法进行下一步操作，请您刷新或稍等一下再操作。如您已经购买，请点击恢复，后台会进行确认  如网络原因造成商品没有显示，请您稍后再试 ";
+"Save" ="保存";
+"Get PrivatePhoto APP, you can import more photos and videos by Wi-Fi network, also you can get more Tools to Perfect Photos, and aslo No Ads." = "下载相册加专业版，你可以通过Wi-Fi网络导入更多私人照片和视频。而且有更多强大的照片编辑功能，美化你的照片，更重要的是 也没有任何广告！！！";
+"Get PrivatePhoto" = "专业版";
+"input password"="输入密码";
+"Use Touch ID to unlock your private photo"="使用指纹解锁私人相册";
+"Touch ID"="指纹解锁";

@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  PhotoPRO
+
+  Created by zhong on 9/14/16.
+  Copyright © 2016 zhongyi. All rights reserved.
+*/
+
+
+"CFBundleDisplayName"="AcropolisX";
+"CFBundleName"="AcropolisX";
+"NSCameraUsageDescription"="This APP will work better when the APP permission to Access Your Camera";
+"NSPhotoLibraryUsageDescription"="This APP will work better when the APP permission to Access Your Photos";

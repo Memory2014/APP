@@ -1,0 +1,57 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <title>Transfer Files </title>
+        <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">
+        <script src="/d.m.js"></script>
+        <link rel="stylesheet" href="/dm.css">
+    </head>
+    <body>
+        <span style="color:#2E64FE">
+            <p>
+            Drop file upload support best :  Safari 6+,  Chrome 7+, Firefox 4+,IE 10+,Opera 12+ . For all the other browsers, dropzone provides an old way.
+            </p>
+            
+            <a href="http://www.com/">官网</a>
+        </span>
+        
+        
+        <!-- Change /upload-target to your upload address -->
+        <form action="/upload-target" class="dropzone"id ="M">
+            <script type="text/javascript">
+                if( "zh" == navigator.language.substr(0,2)){
+                    Dropzone.options.M = {
+                        dictDefaultMessage: "把文件拖到这里",
+                        dictFallbackMessage: "你的浏览器不支持拖拽上传",
+                        dictFallbackText: "Please use the fallback form below to upload your files like in the olden days.",
+                        dictFileTooBig: "文件太大 ({{filesize}}MiB). 最大: {{maxFilesize}}MiB.",
+                        dictInvalidFileType: "不支持此类文件",
+                        dictResponseError: "错误 {{statusCode}} ",
+                        dictCancelUpload: "取消",
+                        dictCancelUploadConfirmation: "你确定要取消?",
+                        dictRemoveFile: "Remove file",
+                        dictRemoveFileConfirmation: null,
+                        dictMaxFilesExceeded: "你不能再传输文件了"
+                    }
+                }else{
+                    Dropzone.options.M = {
+                        dictDefaultMessage: "Drop files here",
+                        dictFallbackMessage: "Your browser does not support drag'n'drop file uploads.",
+                        dictFallbackText: "Please upload your files like in the olden days.",
+                        dictFileTooBig: "File is too big ({{filesize}}MiB). Max filesize: {{maxFilesize}}MiB.",
+                        dictInvalidFileType: "You can't upload files of this type.",
+                        dictResponseError: "Server responded with {{statusCode}} code.",
+                        dictCancelUpload: "Cancel upload",
+                        dictCancelUploadConfirmation: "Are you sure you want to cancel this upload?",
+                        dictRemoveFile: "Remove file",
+                        dictRemoveFileConfirmation: null,
+                        dictMaxFilesExceeded: "You can not upload any more files."  
+                    }  	 	
+                }
+            </script>
+        </form>
+  
+        
+    
+    </body>
+</html>

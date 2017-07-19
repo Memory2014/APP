@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>PhotosPlus</string>
+	<key>CFBundleDisplayName</key>
+	<string>PhotosPlus</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This APP will work better when the APP permission to Access Your Camera</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This APP will work better when the APP permission to Access Your Photos</string>
+</dict>
+</plist>
